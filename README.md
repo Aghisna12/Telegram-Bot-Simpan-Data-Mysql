@@ -7,12 +7,12 @@ Telegram Bot Untuk ChatBot menyimpan data ke mysql database
 
 #### Contoh Command
 ****/daftar***
-![/daftar](img/daftar.jpeg "Command Daftar")
+![/daftar](img/daftar.jpg "Command Daftar")
 
 
 ****/dapus***
-![/hapus](img/hapus.jpeg "Command Hapus")
+![/hapus](img/hapus.jpg "Command Hapus")
 
 
 ****/daftar***
-![/daftar](img/sudah_daftar.jpeg "Command Daftar")
+![/daftar](img/sudah_daftar.jpg "Command Daftar")
