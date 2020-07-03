@@ -5,7 +5,7 @@ Telegram Bot Untuk ChatBot menyimpan data ke mysql database
 
 **File mysql.php Untuk Koneksi Ke Mysql Database**
 
-###### untuk belajar bisa pake contoh endpoint api mysqlberikut
+###### untuk belajar bisa pake contoh endpoint api mysql berikut
 * ```http://aghisna12.herokuapp.com/mysql.php?```
 * ```http://62.171.137.204/~tersakit/mysql.php?```
 
@@ -18,6 +18,6 @@ Telegram Bot Untuk ChatBot menyimpan data ke mysql database
 ![/daftar](img/sudah_daftar.jpg "Command Daftar")
 
 
-****/dapus***
+****/hapus***
 ![/hapus](img/hapus.jpg "Command Hapus")
 
