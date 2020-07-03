@@ -125,5 +125,5 @@ function prossesAnggotaPHP(user_id = 0, chat_id = 0, text = "") {
 }
 
 function test_anggota_php() {
-  prossesAnggotaPHP(user_id, chat_id, "/daftar");
+  prossesAnggotaPHP("USER ID", "CHAT ID", "/daftar");
 }
