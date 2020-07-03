@@ -10,9 +10,10 @@ Telegram Bot Untuk ChatBot menyimpan data ke mysql database
 ![/daftar](img/daftar.jpg "Command Daftar")
 
 
+****/daftar***
+![/daftar](img/sudah_daftar.jpg "Command Daftar")
+
+
 ****/dapus***
 ![/hapus](img/hapus.jpg "Command Hapus")
 
-
-****/daftar***
-![/daftar](img/sudah_daftar.jpg "Command Daftar")
